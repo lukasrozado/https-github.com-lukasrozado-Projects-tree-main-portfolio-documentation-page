@@ -144,7 +144,3 @@ This project is licensed under the MIT License. For more details, see the LICENS
 
 **Author**  
 This project was created as part of the FreeCodeCamp Responsive Web Design Certification. Developed by lukasrozado: [https://github.com/lukasrozado](https://github.com/lukasrozado).
-
-----------
-
-This is the complete documentation in English, without markdown formatting.
